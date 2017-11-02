@@ -1,0 +1,98 @@
+//To create Sub merchant Via AJAX
+var settings = {
+  "async": true,
+  "crossDomain": true,
+  "url": "https://[YOUR_IP_ADDRESS]:9292/braintree_merchants/onboard",
+  "method": "POST",
+  "headers": {
+    "content-type": "application/json",
+    "cache-control": "no-cache",
+    "postman-token": "9ac50a97-a600-f71d-7932-84bad3ae4778"
+  },
+  "processData": false,
+  "data": "{\n  \"individual\": {\n    \"first_name\": \"deb\",\n    \"last_name\": \"Doe\",\n    \"email\": \"deb@14ladders.com\",\n    \"phone\": \"5553331444\",\n    \"date_of_birth\": \"1980-01-01\",\n    \"ssn\": \"456-78-9012\",\n    \"address\": {\n      \"street_address\": \"112 Main Street\",\n      \"locality\": \"Chicago\",\n      \"region\": \"IL\",\n      \"postal_code\": 60622\n    }\n  },\n  \"business\": {\n    \"legal_name\": \"Debs Ladders\",\n    \"dba_name\": \"Debs Ladders\",\n    \"tax_id\": \"98-7654341\",\n    \"address\": {\n      \"street_address\": \"12 Main Street\",\n      \"locality\": \"Chicago\",\n      \"region\": \"IL\",\n      \"postal_code\": 60622\n    }\n  },\n  \"funding\": {\n    \"descriptor\": \"Debs Ladders\",\n    \"email\": \"funding@debsladders.com\",\n    \"mobile_phone\": \"5555555555\",\n    \"account_number\": \"123456789\",\n    \"routing_number\": \"071101308\"\n  },\n  \"id\": \"test_merchant_id\"\n}"
+}
+
+$.ajax(settings).done(function (response) {
+  console.log(response);
+});
+
+#Create Submerchant using cURL
+curl -X POST \
+  https://192.168.14.122:9292/braintree_merchants/onboard \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -H 'postman-token: 5984f417-f62e-edbe-cc31-361547f815f5' \
+  -d '{
+  "individual": {
+    "first_name": "deb",
+    "last_name": "Doe",
+    "email": "deb@14ladders.com",
+    "phone": "5553331444",
+    "date_of_birth": "1980-01-01",
+    "ssn": "456-78-9012",
+    "address": {
+      "street_address": "112 Main Street",
+      "locality": "Chicago",
+      "region": "IL",
+      "postal_code": 60622
+    }
+  },
+  "business": {
+    "legal_name": "Debs Ladders",
+    "dba_name": "Debs Ladders",
+    "tax_id": "98-7654341",
+    "address": {
+      "street_address": "12 Main Street",
+      "locality": "Chicago",
+      "region": "IL",
+      "postal_code": 60622
+    }
+  },
+  "funding": {
+    "descriptor": "Debs Ladders",
+    "email": "funding@debsladders.com",
+    "mobile_phone": "5555555555",
+    "account_number": "1123581322",
+    "routing_number": "071101308"
+  },
+  "id": "test_merchant_id"
+}'
+
+#Update Sub-Merchant using AJAX
+
+var settings = {
+  "async": true,
+  "crossDomain": true,
+  "url": "https://[YOUR_IP_ADDRESS]:9292/braintree_merchants/update_merchant",
+  "method": "POST",
+  "headers": {
+    "content-type": "application/json",
+    "cache-control": "no-cache",
+    "postman-token": "e8b02a3f-b3cc-3db7-bb69-1ea6ad2b89d4"
+  },
+  "processData": false,
+  "data": "{\n  \"merchant_id\": \"mytestmerchant_tobe_updated_id\",\n  \"funding\": {\n      \"descriptor\": \"Debs Ladders\",\n      \"email\": \"updatetest@debsladders.com\",\n      \"mobile_phone\": \"5532133232\",\n      \"account_number\": \"123456789\",\n      \"routing_number\": \"11212133\"\n  }\n}"
+}
+
+$.ajax(settings).done(function (response) {
+  console.log(response);
+});
+
+
+#Update Submerhcant Using cURL
+curl -X POST \
+  https://YOUR_IP_ADDRESS_HERE:9292/braintree_merchants/update_merchant \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -H 'postman-token: 3ce9214f-5d7d-e8f2-fa3e-c08243b9ca7e' \
+  -d '{
+  "merchant_id": "mytestmerchant_tobe_updated_id",
+  "funding": {
+      "descriptor": "Debs Ladders",
+      "email": "updatetest@debsladders.com",
+      "mobile_phone": "5532133232",
+      "account_number": "123456789",
+      "routing_number": "111111111"
+  }
+}'

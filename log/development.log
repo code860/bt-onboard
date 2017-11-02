@@ -1,0 +1,1630 @@
+Started GET "/client_id" for 192.168.14.121 at 2017-04-21 12:15:59 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/client_id"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/favicon.ico" for 192.168.14.121 at 2017-04-21 12:15:59 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-21 12:16:27 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 204 No Content in 1229ms
+
+
+Started GET "/client_id" for 192.168.14.121 at 2017-04-21 12:17:08 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/client_id"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-21 12:17:27 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 706ms (Views: 0.2ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-21 12:18:20 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 711ms (Views: 0.1ms)
+
+
+Started GET "/currentsetting.htm" for 127.0.0.1 at 2017-04-21 12:31:30 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/currentsetting.htm"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/currentsetting.htm" for 127.0.0.1 at 2017-04-21 12:59:41 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/currentsetting.htm"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 13:52:21 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}, "braintree_merchant"=>{"business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}}}
+#<ActionController::Parameters:0x00557b02940098>
+Completed 500 Internal Server Error in 1ms
+
+
+  
+NameError (uninitialized constant BraintreeMerchantsController::BusinessRequest):
+  
+app/controllers/braintree_merchants_controller.rb:10:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 13:53:41 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}, "braintree_merchant"=>{"business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}}}
+#<ActionController::Parameters:0x007f70383cb838>
+Completed 500 Internal Server Error in 1051ms
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/braintree_merchants_controller.rb:16:in `onboard'
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-21 13:54:52 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 5816ms (Views: 0.1ms)
+
+
+Started GET "/favicon.ico" for 192.168.14.121 at 2017-04-21 13:54:58 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 13:58:26 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}, "braintree_merchant"=>{"business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}}} permitted: false>
+#<Braintree::ErrorResult params:{...} errors:<merchant_account/individual:[(82637) Individual first name is required., (82638) Individual last name is required., (82639) Individual date of birth is required., (82667) Individual email is required.], merchant_account/individual/address:[(82657) Individual street address is required., (82659) Individual postal code is required., (82658) Individual locality is required., (82660) Individual region is required.]>>
+Completed 500 Internal Server Error in 801ms
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/braintree_merchants_controller.rb:17:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:08:18 -0400
+Error occurred while parsing request parameters.
+Contents:
+
+{
+  "individual": {
+  	"first_name": "Jane",
+  	"last_name": "Doe",
+  	"email": "jane@14ladders.com",
+  	"phone": "5553334444",
+  	"date_of_birth": "1981-11-19",
+  	"ssn": "456-45-4567",
+  	"address": {
+  		"street_address": "111 Main Street",
+  		"locality": "Chicago",
+  		"region": "IL",
+  		"postal_code": 60622
+  	}
+  }
+  "business": {
+  	"legal_name": "Janes Ladders",
+  	"dba_name": "Jane's Ladders",
+  	"tax_id": "98-7654321",
+  	"address": {
+  		"street_address": "11 Main Street",
+  		"locality": "Chicago",
+  		"region": "IL",
+  		"postal_code": 60622
+  	}
+  },
+  "funding": {
+  	"descriptor": "Blue Ladders",
+  	"email": "funding@blueladders.com",
+  	"mobile_phone": "5555555555",
+  	"account_number": "1123581321",
+  	"routing_number": "071101307"
+  }
+}
+  
+ActionDispatch::ParamsParser::ParseError (822: unexpected token at '{
+  "individual": {
+  	"first_name": "Jane",
+  	"last_name": "Doe",
+  	"email": "jane@14ladders.com",
+  	"phone": "5553334444",
+  	"date_of_birth": "1981-11-19",
+  	"ssn": "456-45-4567",
+  	"address": {
+  		"street_address": "111 Main Street",
+  		"locality": "Chicago",
+  		"region": "IL",
+  		"postal_code": 60622
+  	}
+  }
+  "business": {
+  	"legal_name": "Janes Ladders",
+  	"dba_name": "Jane's Ladders",
+  	"tax_id": "98-7654321",
+  	"address": {
+  		"street_address": "11 Main Street",
+  		"locality": "Chicago",
+  		"region": "IL",
+  		"postal_code": 60622
+  	}
+  },
+  "funding": {
+  	"descriptor": "Blue Ladders",
+  	"email": "funding@blueladders.com",
+  	"mobile_phone": "5555555555",
+  	"account_number": "1123581321",
+  	"routing_number": "071101307"
+  }
+}'):
+  
+actionpack (5.0.2) lib/action_dispatch/http/parameters.rb:88:in `rescue in parse_formatted_parameters'
+actionpack (5.0.2) lib/action_dispatch/http/parameters.rb:82:in `parse_formatted_parameters'
+actionpack (5.0.2) lib/action_dispatch/http/request.rb:354:in `block in POST'
+rack (2.0.1) lib/rack/request.rb:57:in `fetch'
+rack (2.0.1) lib/rack/request.rb:57:in `fetch_header'
+actionpack (5.0.2) lib/action_dispatch/http/request.rb:353:in `POST'
+actionpack (5.0.2) lib/action_controller/metal/params_wrapper.rb:282:in `_wrapper_enabled?'
+actionpack (5.0.2) lib/action_controller/metal/params_wrapper.rb:231:in `process_action'
+actionpack (5.0.2) lib/abstract_controller/base.rb:126:in `process'
+actionpack (5.0.2) lib/action_controller/metal.rb:190:in `dispatch'
+actionpack (5.0.2) lib/action_controller/metal.rb:262:in `dispatch'
+actionpack (5.0.2) lib/action_dispatch/routing/route_set.rb:50:in `dispatch'
+actionpack (5.0.2) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (5.0.2) lib/action_dispatch/journey/router.rb:39:in `block in serve'
+actionpack (5.0.2) lib/action_dispatch/journey/router.rb:26:in `each'
+actionpack (5.0.2) lib/action_dispatch/journey/router.rb:26:in `serve'
+actionpack (5.0.2) lib/action_dispatch/routing/route_set.rb:725:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.2) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.2) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.2) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.2) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:11:06 -0400
+  
+SyntaxError (/home/sca-ben/projects/braintree_onboarding/app/controllers/braintree_merchants_controller.rb:10: syntax error, unexpected ':', expecting =>
+      :individual: IndividualRequest.request(params[:individual]),
+                  ^
+/home/sca-ben/projects/braintree_onboarding/app/controllers/braintree_merchants_controller.rb:10: syntax error, unexpected ',', expecting keyword_end
+/home/sca-ben/projects/braintree_onboarding/app/controllers/braintree_merchants_controller.rb:11: syntax error, unexpected ',', expecting keyword_end
+/home/sca-ben/projects/braintree_onboarding/app/controllers/braintree_merchants_controller.rb:12: syntax error, unexpected ',', expecting keyword_end
+/home/sca-ben/projects/braintree_onboarding/app/controllers/braintree_merchants_controller.rb:13: Can't assign to true
+/home/sca-ben/projects/braintree_onboarding/app/controllers/braintree_merchants_controller.rb:14: syntax error, unexpected =>, expecting &. or :: or '[' or '.'
+... :master_merchant_account_id => ENV.fetch('BT_MASTER_MERCHAN...
+...                               ^
+/home/sca-ben/projects/braintree_onboarding/app/controllers/braintree_merchants_controller.rb:15: syntax error, unexpected '}', expecting keyword_end):
+  
+app/controllers/braintree_merchants_controller.rb:10: syntax error, unexpected ':', expecting =>
+app/controllers/braintree_merchants_controller.rb:10: syntax error, unexpected ',', expecting keyword_end
+app/controllers/braintree_merchants_controller.rb:11: syntax error, unexpected ',', expecting keyword_end
+app/controllers/braintree_merchants_controller.rb:12: syntax error, unexpected ',', expecting keyword_end
+app/controllers/braintree_merchants_controller.rb:13: Can't assign to true
+app/controllers/braintree_merchants_controller.rb:14: syntax error, unexpected =>, expecting &. or :: or '[' or '.'
+app/controllers/braintree_merchants_controller.rb:15: syntax error, unexpected '}', expecting keyword_end
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:11:18 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"Jane", "last_name"=>"Doe", "email"=>"jane@14ladders.com", "phone"=>"5553334444", "date_of_birth"=>"1981-11-19", "ssn"=>"456-45-4567", "address"=>{"street_address"=>"111 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"Jane", "last_name"=>"Doe", "email"=>"jane@14ladders.com", "phone"=>"5553334444", "date_of_birth"=>"1981-11-19", "ssn"=>"456-45-4567", "address"=>{"street_address"=>"111 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"Jane", "last_name"=>"Doe", "email"=>"jane@14ladders.com", "phone"=>"5553334444", "date_of_birth"=>"1981-11-19", "ssn"=>"456-45-4567", "address"=>{"street_address"=>"111 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"Jane", "last_name"=>"Doe", "email"=>"jane@14ladders.com", "phone"=>"5553334444", "date_of_birth"=>"1981-11-19", "ssn"=>"456-45-4567", "address"=>{"street_address"=>"111 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}}} permitted: false>
+Completed 500 Internal Server Error in 1ms
+
+
+  
+SyntaxError (/home/sca-ben/projects/braintree_onboarding/app/models/individual_request.rb:6: syntax error, unexpected ':', expecting '}'
+      email: params[:email],
+            ^
+/home/sca-ben/projects/braintree_onboarding/app/models/individual_request.rb:7: syntax error, unexpected tLABEL, expecting '='
+      phone: params[:phone],
+            ^
+/home/sca-ben/projects/braintree_onboarding/app/models/individual_request.rb:8: syntax error, unexpected tLABEL, expecting '='
+      date_of_birth: params[:date_of_birth],
+                    ^
+/home/sca-ben/projects/braintree_onboarding/app/models/individual_request.rb:9: syntax error, unexpected tLABEL, expecting '='
+      ssn: params[:ssn],
+          ^
+/home/sca-ben/projects/braintree_onboarding/app/models/individual_request.rb:10: syntax error, unexpected tLABEL, expecting '='
+      address: AddressRequest.request(params[:address])
+              ^
+/home/sca-ben/projects/braintree_onboarding/app/models/individual_request.rb:11: syntax error, unexpected '}', expecting keyword_end):
+  
+app/models/individual_request.rb:6: syntax error, unexpected ':', expecting '}'
+app/models/individual_request.rb:7: syntax error, unexpected tLABEL, expecting '='
+app/models/individual_request.rb:8: syntax error, unexpected tLABEL, expecting '='
+app/models/individual_request.rb:9: syntax error, unexpected tLABEL, expecting '='
+app/models/individual_request.rb:10: syntax error, unexpected tLABEL, expecting '='
+app/models/individual_request.rb:11: syntax error, unexpected '}', expecting keyword_end
+app/controllers/braintree_merchants_controller.rb:10:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:11:51 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"Jane", "last_name"=>"Doe", "email"=>"jane@14ladders.com", "phone"=>"5553334444", "date_of_birth"=>"1981-11-19", "ssn"=>"456-45-4567", "address"=>{"street_address"=>"111 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"Jane", "last_name"=>"Doe", "email"=>"jane@14ladders.com", "phone"=>"5553334444", "date_of_birth"=>"1981-11-19", "ssn"=>"456-45-4567", "address"=>{"street_address"=>"111 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"Jane", "last_name"=>"Doe", "email"=>"jane@14ladders.com", "phone"=>"5553334444", "date_of_birth"=>"1981-11-19", "ssn"=>"456-45-4567", "address"=>{"street_address"=>"111 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"Jane", "last_name"=>"Doe", "email"=>"jane@14ladders.com", "phone"=>"5553334444", "date_of_birth"=>"1981-11-19", "ssn"=>"456-45-4567", "address"=>{"street_address"=>"111 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Janes Ladders", "dba_name"=>"Jane's Ladders", "tax_id"=>"98-7654321", "address"=>{"street_address"=>"11 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Blue Ladders", "email"=>"funding@blueladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581321", "routing_number"=>"071101307"}}} permitted: false>
+#<Braintree::SuccessfulResult merchant_account:#<Braintree::MerchantAccount: id: "janesladders_instant_c8c5rwy5", status: "pending", master_merchant_account: #<Braintree::MerchantAccount: id: "scacorp", status: "active", master_merchant_account: nil>>>
+Completed 500 Internal Server Error in 775ms
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/braintree_merchants_controller.rb:18:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:14:38 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}} permitted: false>
+[1;31mnil[0m
+Completed 200 OK in 762ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:15:10 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}} permitted: false>
+#<Braintree::ErrorResult params:{...} errors:<merchant_account/funding:[(82649) Funding routing number is invalid.]>>
+[1;31mnil[0m
+Completed 200 OK in 677ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:15:53 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}} permitted: false>
+#<Braintree::ErrorResult params:{...} errors:<merchant_account/funding:[(82649) Funding routing number is invalid.]>>
+Completed 500 Internal Server Error in 721ms
+
+
+  
+NoMethodError (undefined method `error_result' for #<Braintree::ErrorResult:0x007fd5ecbb4350>):
+  
+app/controllers/braintree_merchants_controller.rb:18:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:16:25 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}} permitted: false>
+#<Braintree::ErrorResult params:{...} errors:<merchant_account/funding:[(82649) Funding routing number is invalid.]>>
+#<Braintree::Errors merchant_account/funding:[(82649) Funding routing number is invalid.]>
+[1;31mnil[0m
+Completed 200 OK in 732ms (Views: 0.2ms)
+
+
+Started GET "/currentsetting.htm" for 127.0.0.1 at 2017-04-21 14:16:51 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/currentsetting.htm"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:17:13 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}} permitted: false>
+#<Braintree::ErrorResult params:{...} errors:<merchant_account/funding:[(82649) Funding routing number is invalid.]>>
+Completed 500 Internal Server Error in 753ms
+
+
+  
+NoMethodError (undefined method `join' for #<Braintree::Errors:0x007fd5ec69bc10>
+Did you mean?  JSON):
+  
+app/controllers/braintree_merchants_controller.rb:18:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:17:41 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}} permitted: false>
+#<Braintree::ErrorResult params:{...} errors:<merchant_account/funding:[(82649) Funding routing number is invalid.]>>
+Completed 500 Internal Server Error in 778ms
+
+
+  
+NoMethodError (undefined method `json' for #<Braintree::Errors:0x007fd5ec0a0900>):
+  
+app/controllers/braintree_merchants_controller.rb:18:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:18:18 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}} permitted: false>
+#<Braintree::ErrorResult params:{...} errors:<merchant_account/funding:[(82649) Funding routing number is invalid.]>>
+[{"code"=>"82649", "attribute"=>"routing_number", "message"=>"Funding routing number is invalid."}]
+[1;31mnil[0m
+Completed 200 OK in 714ms (Views: 0.1ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:19:24 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}} permitted: false>
+Completed 200 OK in 823ms (Views: 0.3ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:20:10 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}} permitted: false>
+Completed 500 Internal Server Error in 788ms
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/braintree_merchants_controller.rb:18:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:21:01 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}} permitted: false>
+#<Braintree::SuccessfulResult merchant_account:#<Braintree::MerchantAccount: id: "debsladders_instant_mfymjh4z", status: "pending", master_merchant_account: #<Braintree::MerchantAccount: id: "scacorp", status: "active", master_merchant_account: nil>>>
+Completed 500 Internal Server Error in 5847ms
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/braintree_merchants_controller.rb:18:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:25:05 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}} permitted: false>
+Completed 500 Internal Server Error in 824ms
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/braintree_merchants_controller.rb:17:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:26:20 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}} permitted: false>
+Completed 500 Internal Server Error in 815ms
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/braintree_merchants_controller.rb:17:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:27:22 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}} permitted: false>
+Completed 500 Internal Server Error in 803ms
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/braintree_merchants_controller.rb:17:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:39:39 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}} permitted: false>
+Completed 500 Internal Server Error in 834ms
+
+
+  
+NoMethodError (super: no superclass method `as_json' for #<Braintree::SuccessfulResult:0x007fec247cf7c8>):
+  
+config/initializers/wrap_parameters.rb:17:in `as_json'
+app/controllers/braintree_merchants_controller.rb:17:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:42:23 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}} permitted: false>
+Completed 500 Internal Server Error in 5880ms
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/braintree_merchants_controller.rb:17:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:43:06 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}} permitted: false>
+Completed 500 Internal Server Error in 724ms
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/braintree_merchants_controller.rb:18:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:45:13 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+Completed 500 Internal Server Error in 243ms
+
+
+  
+ActiveRecord::AdapterNotSpecified ('development' database is not configured. Available: []):
+  
+app/controllers/braintree_merchants_controller.rb:8:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:46:17 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}} permitted: false>
+Completed 500 Internal Server Error in 741ms
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/braintree_merchants_controller.rb:17:in `onboard'
+DEPRECATION WARNING: Passing strings or symbols to the middleware builder is deprecated, please change
+them to actual class references.  For example:
+
+  "ActionDispatch::Static" => ActionDispatch::Static
+
+ (called from <top (required)> at /home/sca-ben/projects/braintree_onboarding/config/environment.rb:5)
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:50:11 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}} permitted: false>
+Completed 500 Internal Server Error in 892ms
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/braintree_merchants_controller.rb:17:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:51:31 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}} permitted: false>
+Completed 500 Internal Server Error in 841ms
+
+
+  
+IOError (not opened for reading):
+  
+app/controllers/braintree_merchants_controller.rb:17:in `onboard'
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:51:53 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}} permitted: false>
+#<Braintree::ErrorResult params:{...} errors:<merchant_account/funding:[(82649) Funding routing number is invalid.]>>
+Completed 200 OK in 674ms (Views: 0.4ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:53:47 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}} permitted: false>
+#<Braintree::SuccessfulResult merchant_account:#<Braintree::MerchantAccount: id: "debsladders_instant_3h8jm4t9", status: "pending", master_merchant_account: #<Braintree::MerchantAccount: id: "scacorp", status: "active", master_merchant_account: nil>>>
+Completed 200 OK in 705ms (Views: 0.3ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:55:06 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}}} permitted: false>
+#<Braintree::SuccessfulResult merchant_account:#<Braintree::MerchantAccount: id: "debsladders_instant_7dkyqm7v", status: "pending", master_merchant_account: #<Braintree::MerchantAccount: id: "scacorp", status: "active", master_merchant_account: nil>>>
+Completed 200 OK in 763ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.121 at 2017-04-21 14:55:16 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+<ActionController::Parameters {"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "controller"=>"braintree_merchants", "action"=>"onboard", "braintree_merchant"=>{"individual"=>{"first_name"=>"deb", "last_name"=>"Doe", "email"=>"deb@14ladders.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "business"=>{"legal_name"=>"Debs Ladders", "dba_name"=>"Debs Ladders", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"12 Main Street", "locality"=>"Chicago", "region"=>"IL", "postal_code"=>60622}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}}} permitted: false>
+#<Braintree::ErrorResult params:{...} errors:<merchant_account/funding:[(82649) Funding routing number is invalid.]>>
+Completed 200 OK in 719ms (Views: 0.3ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2017-04-21 15:27:51 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/municipalities" for 127.0.0.1 at 2017-04-21 15:27:52 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/api/municipalities"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/api/profiles?filter%5Bemail%5D=benjaminc.barber%40gmail.com" for 127.0.0.1 at 2017-04-21 15:27:52 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/api/profiles"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/currentsetting.htm" for 127.0.0.1 at 2017-04-21 15:31:21 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/currentsetting.htm"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/currentsetting.htm" for 127.0.0.1 at 2017-04-25 11:30:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/currentsetting.htm"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/currentsetting.htm" for 127.0.0.1 at 2017-04-25 11:56:00 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/currentsetting.htm"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/currentsetting.htm" for 127.0.0.1 at 2017-04-25 12:21:32 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/currentsetting.htm"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/currentsetting.htm" for 127.0.0.1 at 2017-04-25 12:47:06 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/currentsetting.htm"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/currentsetting.htm" for 127.0.0.1 at 2017-04-25 13:13:40 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/currentsetting.htm"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/currentsetting.htm" for 127.0.0.1 at 2017-04-25 13:38:34 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/currentsetting.htm"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-27 11:52:08 -0400
+Processing by BraintreeMerchantsController#client_id as */*
+  Parameters: {"braintree_merchant"=>{}}
+Completed 500 Internal Server Error in 271ms
+
+
+  
+Braintree::AuthenticationError (Braintree::AuthenticationError):
+  
+app/controllers/braintree_merchants_controller.rb:3:in `client_id'
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-27 12:05:45 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 500 Internal Server Error in 244ms
+
+
+  
+Braintree::AuthenticationError (Braintree::AuthenticationError):
+  
+app/controllers/braintree_merchants_controller.rb:3:in `client_id'
+Started GET "/favicon.ico" for 192.168.14.121 at 2017-04-27 12:05:45 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-27 12:13:08 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 500 Internal Server Error in 263ms
+
+
+  
+Braintree::AuthenticationError (Braintree::AuthenticationError):
+  
+app/controllers/braintree_merchants_controller.rb:3:in `client_id'
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-27 12:19:08 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 500 Internal Server Error in 270ms
+
+
+  
+Braintree::AuthenticationError (Braintree::AuthenticationError):
+  
+app/controllers/braintree_merchants_controller.rb:3:in `client_id'
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-27 12:19:33 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 500 Internal Server Error in 258ms
+
+
+  
+Braintree::AuthenticationError (Braintree::AuthenticationError):
+  
+app/controllers/braintree_merchants_controller.rb:3:in `client_id'
+Started GET "/favicon.ico" for 192.168.14.121 at 2017-04-27 12:19:33 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-27 12:21:34 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 500 Internal Server Error in 230ms
+
+
+  
+Braintree::AuthenticationError (Braintree::AuthenticationError):
+  
+app/controllers/braintree_merchants_controller.rb:3:in `client_id'
+Started GET "/favicon.ico" for 192.168.14.121 at 2017-04-27 12:21:34 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-27 12:21:56 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 902ms (Views: 0.1ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-27 12:22:38 -0400
+Processing by BraintreeMerchantsController#client_id as */*
+Completed 200 OK in 732ms (Views: 0.2ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-27 12:23:32 -0400
+Processing by BraintreeMerchantsController#client_id as */*
+Completed 200 OK in 5539ms (Views: 0.1ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-27 12:23:53 -0400
+Processing by BraintreeMerchantsController#client_id as */*
+Completed 200 OK in 656ms (Views: 0.2ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-27 12:23:56 -0400
+Processing by BraintreeMerchantsController#client_id as */*
+Completed 200 OK in 574ms (Views: 0.2ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-27 12:25:12 -0400
+Processing by BraintreeMerchantsController#client_id as */*
+Completed 200 OK in 1450ms (Views: 0.5ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.106 at 2017-04-27 12:29:52 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 739ms (Views: 0.3ms)
+
+
+Started GET "/favicon.ico" for 192.168.14.106 at 2017-04-27 12:29:53 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/braintree_merchants/client_id" for 192.168.14.106 at 2017-04-27 12:30:11 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 672ms (Views: 0.3ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.106 at 2017-04-27 12:30:36 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 677ms (Views: 0.3ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.112 at 2017-04-27 12:32:19 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 801ms (Views: 0.2ms)
+
+
+Started GET "/favicon.ico" for 192.168.14.112 at 2017-04-27 12:32:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/braintree_merchants/client_id" for 192.168.14.112 at 2017-04-27 12:37:43 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 664ms (Views: 0.4ms)
+
+
+Started GET "/favicon.ico" for 192.168.14.112 at 2017-04-27 12:37:43 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-28 13:29:21 -0400
+Processing by BraintreeMerchantsController#client_id as */*
+Completed 200 OK in 564ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.112 at 2017-04-28 14:50:52 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"6317669580", "account_number"=>"483045677380", "routing_number"=>"021000322"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"funding@debsladders.com", "mobile_phone"=>"6317669580", "account_number"=>"483045677380", "routing_number"=>"021000322"}}}
+Completed 200 OK in 575ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.112 at 2017-04-28 15:02:51 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"County Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"6317669580", "account_number"=>"611001968", "routing_number"=>"021000322"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"County Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"6317669580", "account_number"=>"611001968", "routing_number"=>"021000322"}}}
+Completed 200 OK in 648ms (Views: 0.3ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.112 at 2017-04-28 15:05:24 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"City Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"6317669580", "account_number"=>"9387142740", "routing_number"=>"021000322"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"City Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"6317669580", "account_number"=>"9387142740", "routing_number"=>"021000322"}}}
+Completed 200 OK in 673ms (Views: 0.1ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.121 at 2017-04-28 15:20:29 -0400
+Processing by BraintreeMerchantsController#client_id as */*
+Completed 200 OK in 687ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.112 at 2017-04-28 15:20:38 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"Utility Billing", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"6317669580", "account_number"=>"9387142740", "routing_number"=>"021000322"}, "braintree_merchant"=>{"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"Utility Billing", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"6317669580", "account_number"=>"9387142740", "routing_number"=>"021000322"}}}
+Completed 200 OK in 879ms (Views: 0.4ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.108 at 2017-05-12 09:37:15 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 817ms (Views: 0.3ms)
+
+
+Started GET "/favicon.ico" for 192.168.14.108 at 2017-05-12 09:37:16 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.108 at 2017-05-12 09:40:12 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"merchant"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+Completed 500 Internal Server Error in 5607ms
+
+
+  
+Braintree::AuthorizationError (Braintree::AuthorizationError):
+  
+app/controllers/braintree_merchants_controller.rb:24:in `update_merchant'
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.108 at 2017-05-12 09:42:42 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"merchant"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+Completed 500 Internal Server Error in 565ms
+
+
+  
+Braintree::AuthorizationError (Braintree::AuthorizationError):
+  
+app/controllers/braintree_merchants_controller.rb:23:in `update_merchant'
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.108 at 2017-05-12 09:43:13 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"merchant"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+Completed 500 Internal Server Error in 467ms
+
+
+  
+Braintree::AuthorizationError (Braintree::AuthorizationError):
+  
+app/controllers/braintree_merchants_controller.rb:23:in `update_merchant'
+Started GET "/braintree_merchants/client_id" for 192.168.14.108 at 2017-05-12 09:54:40 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 5768ms (Views: 0.3ms)
+
+
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.108 at 2017-05-12 09:54:55 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"merchant"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+Completed 500 Internal Server Error in 455ms
+
+
+  
+Braintree::AuthorizationError (Braintree::AuthorizationError):
+  
+app/controllers/braintree_merchants_controller.rb:23:in `update_merchant'
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.108 at 2017-05-12 09:56:00 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"merchant"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+[0;33m"Braintree::AuthorizationError"[0m
+[1;31mnil[0m
+Completed 500 Internal Server Error in 5629ms
+
+
+  
+NoMethodError (undefined method `success?' for nil:NilClass):
+  
+app/controllers/braintree_merchants_controller.rb:29:in `update_merchant'
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.108 at 2017-05-12 09:58:14 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant_id"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "braintree_merchant"=>{"merchant_id"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101308"}}}
+Completed 200 OK in 731ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.108 at 2017-05-12 09:58:56 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant_id"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "braintree_merchant"=>{"merchant_id"=>"janesladders_instant_c8c5rwy5", "funding"=>{"descriptor"=>"Debs Ladders", "email"=>"updatetest@debsladders.com", "mobile_phone"=>"5532133232", "account_number"=>"1123581322", "routing_number"=>"071101307"}}}
+Completed 200 OK in 779ms (Views: 0.4ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.108 at 2017-05-12 10:02:20 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 456ms (Views: 0.2ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.112 at 2017-05-12 10:21:35 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 450ms (Views: 0.4ms)
+
+
+Started GET "/favicon.ico" for 192.168.14.112 at 2017-05-12 10:21:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.112 at 2017-05-12 10:22:30 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant_id"=>"cityofglencove_instant_dctkksh5", "funding"=>{"descriptor"=>"School Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528624566", "routing_number"=>"031176110"}, "braintree_merchant"=>{"merchant_id"=>"cityofglencove_instant_dctkksh5", "funding"=>{"descriptor"=>"School Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528624566", "routing_number"=>"031176110"}}}
+Completed 200 OK in 580ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.112 at 2017-05-12 10:31:26 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant_id"=>"cityofglencove_instant_n92t7xhz", "funding"=>{"descriptor"=>"County Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528624558", "routing_number"=>"031176110"}, "braintree_merchant"=>{"merchant_id"=>"cityofglencove_instant_n92t7xhz", "funding"=>{"descriptor"=>"County Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528624558", "routing_number"=>"031176110"}}}
+Completed 200 OK in 5621ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.112 at 2017-05-12 10:32:34 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant_id"=>"cityofglencove_instant_ct3zmt9z", "funding"=>{"descriptor"=>"City Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528623616", "routing_number"=>"031176110"}, "braintree_merchant"=>{"merchant_id"=>"cityofglencove_instant_ct3zmt9z", "funding"=>{"descriptor"=>"City Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528623616", "routing_number"=>"031176110"}}}
+Completed 200 OK in 506ms (Views: 0.5ms)
+
+
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.112 at 2017-05-12 10:33:47 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant_id"=>"cityofglencove_instant_rct3t68n", "funding"=>{"descriptor"=>"Utility Billing", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528623616", "routing_number"=>"031176110"}, "braintree_merchant"=>{"merchant_id"=>"cityofglencove_instant_rct3t68n", "funding"=>{"descriptor"=>"Utility Billing", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528623616", "routing_number"=>"031176110"}}}
+Completed 200 OK in 664ms (Views: 0.2ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.108 at 2017-05-24 09:11:02 -0400
+  
+SyntaxError (/home/sca-ben/projects/braintree_onboarding/app/controllers/braintree_merchants_controller.rb:14: syntax error, unexpected tSYMBEG, expecting '}'
+      :id => params[:id]
+       ^
+/home/sca-ben/projects/braintree_onboarding/app/controllers/braintree_merchants_controller.rb:15: syntax error, unexpected '}', expecting keyword_end):
+  
+app/controllers/braintree_merchants_controller.rb:14: syntax error, unexpected tSYMBEG, expecting '}'
+app/controllers/braintree_merchants_controller.rb:15: syntax error, unexpected '}', expecting keyword_end
+Started GET "/favicon.ico" for 192.168.14.108 at 2017-05-24 09:11:02 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/braintree_merchants/client_id" for 192.168.14.108 at 2017-05-24 09:11:18 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 1783ms (Views: 0.3ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.129 at 2017-05-24 09:17:39 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 5414ms (Views: 0.4ms)
+
+
+Started GET "/favicon.ico" for 192.168.14.129 at 2017-05-24 09:17:44 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/braintree_merchants/onboard" for 192.168.14.129 at 2017-05-24 10:05:11 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11543}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-60000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"School Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528624566", "routing_number"=>"031176110"}, "id"=>"CityOfGlencove_Tax_School", "braintree_merchant"=>{"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11543}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-60000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"School Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528624566", "routing_number"=>"031176110"}, "id"=>"CityOfGlencove_Tax_School"}}
+Completed 200 OK in 770ms (Views: 0.4ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.129 at 2017-05-24 10:06:12 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11543}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"School Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528624566", "routing_number"=>"031176110"}, "id"=>"CityOfGlencove_Tax_School", "braintree_merchant"=>{"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11543}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"School Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528624566", "routing_number"=>"031176110"}, "id"=>"CityOfGlencove_Tax_School"}}
+Completed 200 OK in 604ms (Views: 0.3ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.129 at 2017-05-24 10:08:05 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11543}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"County Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528624558", "routing_number"=>"031176110"}, "id"=>"CityOfGlencove_Tax_County", "braintree_merchant"=>{"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11543}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"County Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528624558", "routing_number"=>"031176110"}, "id"=>"CityOfGlencove_Tax_County"}}
+Completed 200 OK in 769ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.129 at 2017-05-24 10:10:38 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11543}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"City Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528623616", "routing_number"=>"031176110"}, "id"=>"CityOfGlencove_Tax_City", "braintree_merchant"=>{"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11543}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"City Tax", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528623616", "routing_number"=>"031176110"}, "id"=>"CityOfGlencove_Tax_City"}}
+Completed 200 OK in 616ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.129 at 2017-05-24 10:12:34 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11543}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"Utility Billing", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528623616", "routing_number"=>"031176110"}, "id"=>"CityOfGlencove_UtilityBilling", "braintree_merchant"=>{"individual"=>{"first_name"=>"Sandra", "last_name"=>"Clarson", "email"=>"sclarson@cityofglencoveny.org", "phone"=>"5166762789", "date_of_birth"=>"1965-5-14", "ssn"=>"124-62-2563", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11543}}, "business"=>{"legal_name"=>"City of Glen Cove", "dba_name"=>"City of Glen Cove", "tax_id"=>"11-6000350", "address"=>{"street_address"=>"9 Glen Street", "locality"=>"Glen Cove", "region"=>"NY", "postal_code"=>11542}}, "funding"=>{"descriptor"=>"Utility Billing", "email"=>"sclarson@cityofglencoveny.org", "mobile_phone"=>"5166762789", "account_number"=>"7528623616", "routing_number"=>"031176110"}, "id"=>"CityOfGlencove_UtilityBilling"}}
+Completed 200 OK in 843ms (Views: 0.2ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.108 at 2017-06-07 15:03:36 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 871ms (Views: 0.3ms)
+
+
+Started GET "/favicon.ico" for 192.168.14.108 at 2017-06-07 15:03:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/braintree_merchants/onboard" for 192.168.14.108 at 2017-06-07 15:04:26 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"dennis", "last_name"=>"benedetto", "email"=>"dbenedetto@test.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Red hook", "region"=>"NY", "postal_code"=>12538}}, "business"=>{"legal_name"=>"SCA UTITILITY TEST", "dba_name"=>"SCA UTILITY", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"54 Elizabeth Street", "locality"=>"RED HOOK", "region"=>"NY", "postal_code"=>12538}}, "funding"=>{"descriptor"=>"SCA UTILITY", "email"=>"funding@scautility.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "id"=>"sca_utility_test", "braintree_merchant"=>{"individual"=>{"first_name"=>"dennis", "last_name"=>"benedetto", "email"=>"dbenedetto@test.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Red hook", "region"=>"NY", "postal_code"=>12538}}, "business"=>{"legal_name"=>"SCA UTITILITY TEST", "dba_name"=>"SCA UTILITY", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"54 Elizabeth Street", "locality"=>"RED HOOK", "region"=>"NY", "postal_code"=>12538}}, "funding"=>{"descriptor"=>"SCA UTILITY", "email"=>"funding@scautility.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101308"}, "id"=>"sca_utility_test"}}
+Completed 200 OK in 866ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/onboard" for 192.168.14.108 at 2017-06-07 15:04:40 -0400
+Processing by BraintreeMerchantsController#onboard as */*
+  Parameters: {"individual"=>{"first_name"=>"dennis", "last_name"=>"benedetto", "email"=>"dbenedetto@test.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Red hook", "region"=>"NY", "postal_code"=>12538}}, "business"=>{"legal_name"=>"SCA UTITILITY TEST", "dba_name"=>"SCA UTILITY", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"54 Elizabeth Street", "locality"=>"RED HOOK", "region"=>"NY", "postal_code"=>12538}}, "funding"=>{"descriptor"=>"SCA UTILITY", "email"=>"funding@scautility.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "id"=>"sca_utility_test", "braintree_merchant"=>{"individual"=>{"first_name"=>"dennis", "last_name"=>"benedetto", "email"=>"dbenedetto@test.com", "phone"=>"5553331444", "date_of_birth"=>"1983-11-19", "ssn"=>"456-45-9837", "address"=>{"street_address"=>"112 Main Street", "locality"=>"Red hook", "region"=>"NY", "postal_code"=>12538}}, "business"=>{"legal_name"=>"SCA UTITILITY TEST", "dba_name"=>"SCA UTILITY", "tax_id"=>"98-7654341", "address"=>{"street_address"=>"54 Elizabeth Street", "locality"=>"RED HOOK", "region"=>"NY", "postal_code"=>12538}}, "funding"=>{"descriptor"=>"SCA UTILITY", "email"=>"funding@scautility.com", "mobile_phone"=>"5555555555", "account_number"=>"1123581322", "routing_number"=>"071101307"}, "id"=>"sca_utility_test"}}
+Completed 200 OK in 722ms (Views: 0.1ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.108 at 2017-08-09 13:01:57 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 1216ms (Views: 0.3ms)
+
+
+Started GET "/favicon.ico" for 192.168.14.108 at 2017-08-09 13:01:58 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.108 at 2017-08-09 13:02:11 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant_id"=>"CityOfGlencove_Tax_County", "funding"=>{"account_number"=>"7528624558"}, "braintree_merchant"=>{"merchant_id"=>"CityOfGlencove_Tax_County", "funding"=>{"account_number"=>"7528624558"}}}
+Completed 200 OK in 2447ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.108 at 2017-08-09 13:08:01 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant_id"=>"CityOfGlencove_Tax_County", "funding"=>{"account_number"=>"7528624558", "routing_number"=>"031176110"}, "braintree_merchant"=>{"merchant_id"=>"CityOfGlencove_Tax_County", "funding"=>{"account_number"=>"7528624558", "routing_number"=>"031176110"}}}
+Completed 200 OK in 688ms (Views: 0.3ms)
+
+
+Started GET "/braintree_merchants/client_id" for 192.168.14.108 at 2017-09-18 13:23:01 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 614ms (Views: 0.2ms)
+
+
+Started GET "/favicon.ico" for 192.168.14.108 at 2017-09-18 13:23:02 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/braintree_merchants/client_id" for 192.168.14.56 at 2017-09-18 13:24:51 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 705ms (Views: 0.4ms)
+
+
+Started GET "/favicon.ico" for 192.168.14.56 at 2017-09-18 13:24:52 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/ssl.rb:84:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/braintree_merchants/client_id" for 192.168.14.56 at 2017-09-18 13:25:02 -0400
+Processing by BraintreeMerchantsController#client_id as HTML
+Completed 200 OK in 489ms (Views: 0.4ms)
+
+
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.56 at 2017-09-18 13:29:45 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant_id"=>"CityOfGlencove_Tax_School", "funding"=>{"routing_number"=>"021407912"}, "braintree_merchant"=>{"merchant_id"=>"CityOfGlencove_Tax_School", "funding"=>{"routing_number"=>"021407912"}}}
+Completed 200 OK in 589ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.56 at 2017-09-18 13:31:37 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant_id"=>"CityOfGlencove_Tax_School", "funding"=>{"account_number"=>"7528624566", "routing_number"=>"021407912"}, "braintree_merchant"=>{"merchant_id"=>"CityOfGlencove_Tax_School", "funding"=>{"account_number"=>"7528624566", "routing_number"=>"021407912"}}}
+Completed 200 OK in 577ms (Views: 0.4ms)
+
+
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.56 at 2017-09-18 13:32:16 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant_id"=>"CityOfGlencove_Tax_County", "funding"=>{"account_number"=>"7528624558", "routing_number"=>"021407912"}, "braintree_merchant"=>{"merchant_id"=>"CityOfGlencove_Tax_County", "funding"=>{"account_number"=>"7528624558", "routing_number"=>"021407912"}}}
+Completed 200 OK in 596ms (Views: 0.2ms)
+
+
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.56 at 2017-09-18 13:33:22 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant_id"=>"CityOfGlencove_Tax_City", "funding"=>{"account_number"=>"7528623616", "routing_number"=>"021407912"}, "braintree_merchant"=>{"merchant_id"=>"CityOfGlencove_Tax_City", "funding"=>{"account_number"=>"7528623616", "routing_number"=>"021407912"}}}
+Completed 200 OK in 532ms (Views: 0.3ms)
+
+
+Started POST "/braintree_merchants/update_merchant" for 192.168.14.56 at 2017-09-18 13:35:56 -0400
+Processing by BraintreeMerchantsController#update_merchant as */*
+  Parameters: {"merchant_id"=>"CityOfGlencove_UtilityBilling", "funding"=>{"account_number"=>"7528623616", "routing_number"=>"021407912"}, "braintree_merchant"=>{"merchant_id"=>"CityOfGlencove_UtilityBilling", "funding"=>{"account_number"=>"7528623616", "routing_number"=>"021407912"}}}
+Completed 200 OK in 544ms (Views: 0.2ms)
+
+
