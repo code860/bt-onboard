@@ -29,7 +29,7 @@ sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/privat
 
 Once those are in place restart nginx.
 
-Finally run this rails s -b 'ssl://0.0.0.0:9292?key=[PATH/TO/SELF_SIGNED_CERT].key&cert=[PATH/TO/SELF-SIGNED-CRT].crt' This will allow you to add and update merchants for tax and utility. Note the .env files at the root need to be named to just .env for the respected master merchants
+Finally run this rails s -b 'ssl://0.0.0.0:9292?key=[PATH/TO/SELF_SIGNED_CERT].key&cert=[PATH/TO/SELF-SIGNED-CRT].crt'. Refer to the postman_request_examples.txt to see how requests should be handled.
 
 Refer to this guide https://developers.braintreepayments.com/reference/request/merchant-account/create/ruby for the required fields(individual, buisness, funding) for the new or existing sub merchants
 
